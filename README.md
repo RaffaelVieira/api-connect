@@ -13,7 +13,6 @@ A API Connect é um MVP desenvolvido para gerenciar o cadastro e a consulta de u
 Siga os passos abaixo para configurar e rodar a aplicação na sua máquina:
 
 1. Clone o repositório:
-   ```bash
   git clone https://github.com/RaffaelVieira/api-connect.git
 
 
